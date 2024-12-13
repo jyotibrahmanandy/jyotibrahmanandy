@@ -64,6 +64,9 @@ I'm Jyotibrahma Nandy from India.<br><br>
   <a href="https://github.com/jyotibrahmanandy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://instagram.com/jyotibrahmanandy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jyotibrahmanandy.jyotibrahmanandy&"  />
 </div>
